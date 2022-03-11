@@ -8,7 +8,7 @@ For a recent SLC Dunk (SB Nation affiliated Utah Jazz basketball blog), I resear
 
 In this repository you'll find the Adobe Illustrator file used to create the visualization and the .CSV for the raw data.
 
-## Description
+## Source
 
 The data present in the .CSV is thanks to [Basketball Reference](https://www.basketball-reference.com/)
 
